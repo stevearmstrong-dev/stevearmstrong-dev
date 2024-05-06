@@ -8,7 +8,7 @@ I'm an Experienced Backend Developer with Canadian and International Work Experi
 ### Work experience 👔
 | Job Position           | Company         | Full Time / Contract                         | Work Period       | Location |
 | ---------------------- | --------------- | -------------------------------------------- | ----------------- | -------- |
-| **Software Developer - API Marketplace** | **Telus** | 6 months T4 Contract via Solsys Corporation | June 2023 — Dec 2023 | Remote Toronto 🇨🇦 |
+| **Software Developer - API Marketplace** | **Telus** | T4 Contract via Solsys Corporation | June 2023 — Dec 2023 | Remote Toronto 🇨🇦 |
 | Full Stack Developer | Postilize | 4 week Internship / work-term | May 2023 | Remote Miami 🇺🇸 |
 | Tech Lead Software Developer | Fultz House Museum | 4 week Volunteering | Apr 2023 — May 2023 | Remote Halifax 🇨🇦 |
 | Senior Systems Engineer | Infosys | Full Time, Permanent | Jan 2022 — Jun 2022 | Hybrid, Bengaluru 🇮🇳|
