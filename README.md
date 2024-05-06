@@ -23,9 +23,6 @@ I'm an Experienced Backend Developer with Canadian and International Work Experi
 
 I have previously worked at Telus, Infosys and Postilize as a Software Developer, Senior Systems Engineer and Full Stack Developer respectively. In addition to my technical expertise, I also bring in domain expertise as a result of building software in the Financial Services and Telecommunications industries.
 
-* 🌍  I'm based in Halifax, NovaScotia, Canada. I'm open to Work and willing to relocate to anywhere in Canada as long as I get an opportunity to learn, grow and make a difference.
-* ✉️  You can contact me at [steve@stevearmstrong.org](mailto:steve@stevearmstrong.org)
-
 ### Skills
 
 
@@ -49,3 +46,9 @@ I have previously worked at Telus, Infosys and Postilize as a Software Developer
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/stevearmstrong-dev/cardiovascular-disease-risk-prediction" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stevearmstrong-dev&repo=cardiovascular-disease-risk-prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+
+
+* 🌍  I'm based in Halifax, NovaScotia, Canada. I'm open to Work and willing to relocate to anywhere in Canada as long as I get an opportunity to learn, grow and make a difference.
+* ✉️  You can contact me at [steve@stevearmstrong.org](mailto:steve@stevearmstrong.org)
