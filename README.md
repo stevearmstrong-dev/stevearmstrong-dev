@@ -7,12 +7,12 @@ I'm an Experienced Backend Developer with Canadian and International Work Experi
 ### Work experience 👔
 | Job Position           |Company         | Full Time / Contract                         | Work Period       |
 | ---------------------- | --------------- | ----------------------------- | ----------------- |
-| **Software Developer - API Marketplace** | **Telus**   | 6 months T4 Contract via Solsys Corporation  | **2023-06 — 2023-12** |
-| Full Stack Developer          | Postilize     | 4 week Internship / work-term | 2023-05 — 2023-05 |
-| Staff Software Engineer       | Creative Logic    | 4 week Volunteering        | 2023-04 — 2023-05 |
-| Senior Systems Engineer        | Infosys    | Full Time, Permanent         | 2022-01 — 2022-06 |
-| Systems Engineer    | Infosys  | Full Time, Permanent      | 2020-04 — 2021-12 |
-| Systems Engineer Trainee    | Infosys      | Full Time, Permanent      | 2019-12 — 2020-04 |
+| **Software Developer - API Marketplace** | **Telus**   | 6 months T4 Contract via Solsys Corporation  | 2023 June — 2023-Dec |
+| Full Stack Developer          | Postilize     | 4 week Internship / work-term | May 2023 - May 2023 |
+| Staff Software Engineer       | Creative Logic    | 4 week Volunteering        | Apr 2023 — May 2023 |
+| Senior Systems Engineer        | Infosys    | Full Time, Permanent         | Jan 2022 — Jun 2022 |
+| Systems Engineer    | Infosys  | Full Time, Permanent      | Apr 2020 — Dec 2021 |
+| Systems Engineer Trainee    | Infosys      | Full Time, Permanent      | Dec 2019 — Apr 2020 |
 
 [![Steve Armstrong's Last 31 days github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stevearmstrong-dev&custom_title=Steve's%20Last%2031%20days%20Contribution%20Graph&theme=github)](https://github.com/stevearmstrong-dev/github-readme-activity-graph)
 
