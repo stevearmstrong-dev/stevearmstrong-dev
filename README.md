@@ -13,6 +13,8 @@ I'm an Experienced Backend Developer with Canadian and International Work Experi
 | Systems Engineer    | Infosys  | Full Time, Permanent      | 2020-04 — 2021-12 |
 | Systems Engineer Trainee    | Infosys      | Full Time, Permanent      | 2019-12 — 2020-04 |
 
+[![Steve Armstrong's Last 31 days github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stevearmstrong-dev&custom_title=Steve's%20Last%2031%20days%20Contribution%20Graph&theme=github)](https://github.com/stevearmstrong-dev/github-readme-activity-graph)
+
 ### Education 🎓
 - [Graduate Certificate in Business Intelligence Analytics] @ NSCC, Halifax, Canada (2023 - 2024)
 - [Graduate Certificate in Full Stack Application Development] @ NSCC, Halifax, Canada (2022 - 2023)
@@ -23,9 +25,6 @@ I have previously worked at Telus, Infosys and Postilize as a Software Developer
 
 * 🌍  I'm based in Halifax, NovaScotia, Canada. I'm open to Work and willing to relocate to anywhere in Canada as long as I get an opportunity to learn, grow and make a difference.
 * ✉️  You can contact me at [steve@stevearmstrong.org](mailto:steve@stevearmstrong.org)
-
-
-[![Steve Armstrong's Last 31 days github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stevearmstrong-dev&custom_title=Steve's%20Last%2031%20days%20Contribution%20Graph&theme=github)](https://github.com/stevearmstrong-dev/github-readme-activity-graph)
 
 ### Skills
 
