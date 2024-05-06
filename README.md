@@ -7,7 +7,7 @@ I'm an Experienced Backend Developer with Canadian and International Work Experi
 ### Work experience 👔
 | Job Position           |Company         | Full Time / Contract                         | Work Period       |
 | ---------------------- | --------------- | ----------------------------- | ----------------- |
-| **Software Developer - API Marketplace** | **Telus**   | T4 Contract via Solsys Corporation  | **2023-06 — 2023-12** |
+| **Software Developer - API Marketplace** | **Telus**   | 6 months T4 Contract via Solsys Corporation  | **2023-06 — 2023-12** |
 | Full Stack Developer          | Postilize     | 4 week Internship / work-term | 2023-05 — 2023-05 |
 | Senior Systems Engineer        | Infosys    | Full Time, Permanent         | 2022-01 — 2022-06 |
 | Systems Engineer    | Infosys  | Full Time, Permanent      | 2020-04 — 2021-12 |
