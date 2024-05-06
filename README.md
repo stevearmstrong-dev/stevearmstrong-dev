@@ -18,7 +18,9 @@ I have previously worked at Telus, Infosys and Postilize as a Software Developer
 <!-- <img width="338" alt="Screenshot 2024-05-06 at 2 02 39 AM" src="https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/889c8da7-dc39-4cd8-9f58-3810c4e93c52"> -->
 <img width="332" alt="Screenshot 2024-05-06 at 2 06 08 AM" src="https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/f168b6a3-d31f-47b0-88ef-afa1b4815057">
 
-[![Steve Armstrong's Last 31 days github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stevearmstrong-dev&custom_title=Steve's%20Last%2031days%20Contribution%20Graph&theme=github-compact)](https://github.com/stevearmstrong-dev/github-readme-activity-graph)
+[![Steve Armstrong's Last 31 days github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stevearmstrong-dev&custom_title=Steve's%20Last%2031days%20Contribution%20Graph&theme=github)](https://github.com/stevearmstrong-dev/github-readme-activity-graph)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stevearmstrong-dev&theme=github_dark&utcOffset=8)
 
 ### Socials
 
