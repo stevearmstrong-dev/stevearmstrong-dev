@@ -6,14 +6,15 @@ I'm an Experienced Backend Developer with Canadian and International Work Experi
 
 
 ### Work experience 👔
-| Job Position           | Company         | Full Time / Contract                         | Work Period       | Location |
-| ---------------------- | --------------- | -------------------------------------------- | ----------------- | -------- |
-| **Software Developer - API Marketplace** | **Telus** | T4 Contract via Solsys Corporation | June 2023 — Dec 2023 | Remote, Toronto 🇨🇦 |
-| Full Stack Developer | Postilize | 4 week Internship / work-term | May 2023 | Remote, Miami 🇺🇸 |
-| Tech Lead Software Developer | Fultz House Museum | 4 week Volunteering | Apr 2023 — May 2023 | Remote, Halifax 🇨🇦 |
-| Senior Systems Engineer | Infosys | Full Time, Permanent | Jan 2022 — Jun 2022 | Hybrid, Bengaluru 🇮🇳|
-| Systems Engineer | Infosys | Full Time, Permanent | Apr 2020 — Dec 2021 | Remote, Kerala 🇮🇳|
-| Systems Engineer Trainee | Infosys | Full Time, Permanent | Dec 2019 — Apr 2020 | Hybrid, Bengaluru 🇮🇳|
+| Job Position           | Company         | Full Time / Contract                         | Work Period       | Location | Domain            |
+| ---------------------- | --------------- | -------------------------------------------- | ----------------- | -------- | ----------------- |
+| **Software Developer - API Marketplace** | **Telus** | 6 months T4 Contract via Solsys Corporation | June 2023 — Dec 2023 | Remote | Financial Services |
+| Full Stack Developer | Postilize | 4 week Internship / work-term | May 2023 | Remote | Financial Services |
+| Tech Lead Software Developer | Fultz House Museum | 4 week Volunteering | Apr 2023 — May 2023 | Remote | Financial Services |
+| Senior Systems Engineer | Infosys | Full Time, Permanent | Jan 2022 — Jun 2022 | Remote | Financial Services |
+| Systems Engineer | Infosys | Full Time, Permanent | Apr 2020 — Dec 2021 | Remote | Financial Services |
+| Systems Engineer Trainee | Infosys | Full Time, Permanent | Dec 2019 — Apr 2020 | Remote | Financial Services |
+
 
 
 [![Steve Armstrong's Last 31 days github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stevearmstrong-dev&custom_title=Steve's%20Last%2031%20days%20Contribution%20Graph&theme=github)](https://github.com/stevearmstrong-dev/github-readme-activity-graph)
