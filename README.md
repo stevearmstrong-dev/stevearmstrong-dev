@@ -15,7 +15,10 @@ I'm an Experienced Backend Developer with Canadian and International Work Experi
 | Systems Engineer | Infosys | Full Time, Permanent | Apr 2020 — Dec 2021 | Remote, Bengaluru 🇮🇳 | Financial Services |
 | Systems Engineer Trainee | Infosys | Full Time, Permanent | Dec 2019 — Apr 2020 | Hybrid, Kerala 🇮🇳 | Financial Services |
 
-
+** *Overall Work Experience: 3 years*
+** *Scale: 50 million users*
+** *Revenue created for firms: 2 Billion$*
+** *Estimated Hours saved: 1500+ hours*
 
 
 
