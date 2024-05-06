@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm an Experienced Backend Developer with Canadian and International Work Experience.
 -------------------------------------------------------------------------------------
-
+[![Steve Armstrong's Last 31 days github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stevearmstrong-dev&custom_title=Steve's%20Last%2031%20days%20Contribution%20Graph&theme=github)](https://github.com/stevearmstrong-dev/github-readme-activity-graph)
 
 ### Work experience 👔
 | Job Position           | Company         | Full Time / Contract                         | Work Period       | Location | Domain            |
@@ -17,7 +17,7 @@ I'm an Experienced Backend Developer with Canadian and International Work Experi
 
 
 
-[![Steve Armstrong's Last 31 days github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stevearmstrong-dev&custom_title=Steve's%20Last%2031%20days%20Contribution%20Graph&theme=github)](https://github.com/stevearmstrong-dev/github-readme-activity-graph)
+
 
 ### Education 🎓
 - [Graduate Certificate in Business Intelligence Analytics] @ NSCC, Halifax, Canada (2023 - 2024)
