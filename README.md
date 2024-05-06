@@ -6,14 +6,15 @@ I'm an Experienced Backend Developer with Canadian and International Work Experi
 [![Steve Armstrong's Last 31 days github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stevearmstrong-dev&custom_title=Steve's%20Last%2031%20days%20Contribution%20Graph&theme=github)](https://github.com/stevearmstrong-dev/github-readme-activity-graph)
 
 ### Work experience 👔
-| Job Position           | Company         | Full Time / Contract                         | Work Period       | Location | Domain            |
-| ---------------------- | --------------- | -------------------------------------------- | ----------------- | -------- | ----------------- |
-| **Software Developer - API Marketplace** | **Telus** | 6 months T4 Contract via Solsys Corporation | June 2023 — Dec 2023 | Remote, Toronto 🇨🇦 | Telecommunications |
-| Full Stack Developer | Postilize | 4 week Internship / work-term | May 2023 | Remote, Miami 🇺🇸 | Generative AI |
-| Tech Lead Software Developer | Fultz House Museum | 4 week Volunteering | Apr 2023 — May 2023 | Remote, Halifax 🇨🇦 | Hospitality |
-| Senior Systems Engineer | Infosys | Full Time, Permanent | Jan 2022 — Jun 2022 | Hybrid, Bengaluru 🇮🇳 | Financial Services |
-| Systems Engineer | Infosys | Full Time, Permanent | Apr 2020 — Dec 2021 | Remote, Bengaluru 🇮🇳 | Financial Services |
-| Systems Engineer Trainee | Infosys | Full Time, Permanent | Dec 2019 — Apr 2020 | Hybrid, Kerala 🇮🇳 | Financial Services |
+| Job Position           | Company         | Full Time / Contract                         | Work Period       | Location               | Domain             | Work Status       |
+| ---------------------- | --------------- | -------------------------------------------- | ----------------- | ---------------------- | ------------------ | ----------------- |
+| **Software Developer - API Marketplace** | **Telus** | 6 months T4 Contract via Solsys Corporation | June 2023 — Dec 2023 | Remote, Toronto 🇨🇦 | Telecommunications | Contract Complete ✅ |
+| Full Stack Developer | Postilize | 4 week Internship / work-term | May 2023 | Remote, Miami 🇺🇸 | Generative AI | Internship Complete ✅ |
+| Tech Lead Software Developer | Fultz House Museum | 4 week Volunteering | Apr 2023 — May 2023 | Remote, Halifax 🇨🇦 | Hospitality | Volunteering Complete ✅ |
+| Senior Systems Engineer | Infosys | Full Time, Permanent | Jan 2022 — Jun 2022 | Hybrid, Bengaluru 🇮🇳 | Financial Services | Resigned to immigrate to Canada for higher studies ✅ |
+| Systems Engineer | Infosys | Full Time, Permanent | Apr 2020 — Dec 2021 | Remote, Bengaluru 🇮🇳 | Financial Services | Promoted to higher level - Senior Systems Engineer ✅ |
+| Systems Engineer Trainee | Infosys | Full Time, Permanent | Dec 2019 — Apr 2020 | Hybrid, Kerala 🇮🇳 | Financial Services | Graduated from Training as a High Performer ✅ and Completed Probation ✅ |
+
 
 ** *Overall Work Experience: 3 years*
 ** *Scale: 50 million users*
