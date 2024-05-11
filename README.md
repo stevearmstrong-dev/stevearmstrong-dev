@@ -58,5 +58,5 @@ I have previously worked at Telus, Infosys and Postilize as a Software Developer
 * If you like what you see, and have a job for me, I'd be so down for an opportunity to collaborate! If I don't meet all the skills that you're looking for, I'd still say to give this wonderkid a go!
 I haven't dissappointed so far in my career :) and I learn like a sponge from everyone with a lot of enthusiasm!
 
-* 🌍  I'm based in Halifax, NovaScotia, Canada and I'm open to Work and willing to relocate to anywhere in Canada as long as I get an opportunity to learn, grow and make a difference!
+* 🌍  I'm based in Toronto, Ontario, Canada and I'm open to Work and willing to relocate to anywhere in Canada as long as I get an opportunity to learn, grow and make a difference!
 * ✉️  Feel free to reach out to me at [steve@stevearmstrong.org](mailto:steve@stevearmstrong.org)
