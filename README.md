@@ -53,7 +53,7 @@ I have previously worked at Telus, Infosys and Postilize as a Software Developer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/stevearmstrong-dev/cardiovascular-disease-risk-prediction" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stevearmstrong-dev&repo=cardiovascular-disease-risk-prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/stevearmstrong-dev/emotion-recognition-from-audio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stevearmstrong-dev&repo=emotion-recognition-from-audio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 * If you like what you see, and have a job for me, I'd be so down for an opportunity to collaborate! If I don't meet all the skills that you're looking for, I'd still say to give this wonderkid a go!
 I haven't dissappointed so far in my career :) and I learn like a sponge from everyone with a lot of enthusiasm!
