@@ -2,7 +2,10 @@
 Well hello there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Thankyou for visiting my profile!
 =======================================================================================================================================
 
-I'm Steve Armstrong! a builder at heart with Software Developmental Work Experience and Education both in Canada and Internationally!
+### I'm Steve Armstrong! a builder at heart with Software Developmental Work Experience and Education both in Canada and Internationally!
+-------------------------------------------------------------------------------------
+##### What you may not find here: Tens of thousands of lines of code written for prior organizations which have resulted in significant business value.
+##### What you may find here: My upskilling efforts beyond work and academia.
 -------------------------------------------------------------------------------------
 [![Steve Armstrong's Last 31 days github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stevearmstrong-dev&custom_title=Steve's%20Last%2031%20days%20Contribution%20Graph&theme=github)](https://github.com/stevearmstrong-dev/github-readme-activity-graph)
 
@@ -56,8 +59,10 @@ I have previously worked at Telus, Infosys and Postilize as a Software Developer
 
 <div width="100%" align="center"><a href="https://github.com/stevearmstrong-dev/emotion-recognition-from-audio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stevearmstrong-dev&repo=emotion-recognition-from-audio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-* If you like what you see, and have a job for me, I'd be so down for an opportunity to collaborate! If I don't meet all the skills that you're looking for, I'd still say to give this wonderkid a go!
-I haven't dissappointed so far in my career :) and I learn like a sponge from everyone with a lot of enthusiasm!
+
+
+**If you like what you see, and have a job for me, I'd love to discuss further and see if we can work together!**
+* I haven't dissappointed so far in my career :) and I learn like a sponge from everyone with a lot of enthusiasm!
 
 * 🌍  I'm based in Toronto, Ontario, Canada and I'm open to Work and willing to relocate to anywhere in Canada as long as I get an opportunity to learn, grow and make a difference!
 * ✉️  Feel free to reach out to me at [steve@stevearmstrong.org](mailto:steve@stevearmstrong.org)
