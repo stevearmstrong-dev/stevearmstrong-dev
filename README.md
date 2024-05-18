@@ -14,7 +14,6 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 | ---------------------- | --------------- | -------------------------------------------- | ----------------- | ---------------------- | ------------------ | ----------------- |
 | **Software Developer - API Marketplace** | **Telus** | 6 months T4 Contract via Solsys Corporation | June 2023 — Dec 2023 | Remote, Toronto 🇨🇦 | Telecommunications | Contract Complete ✅ |
 | Full Stack Developer | Postilize | 4 week Internship / work-term | May 2023 | Remote, Miami 🇺🇸 | Generative AI | Internship Complete ✅ |
-| Tech Lead Software Developer | Fultz House Museum | 4 week Volunteering | Apr 2023 — May 2023 | Remote, Halifax 🇨🇦 | Hospitality | Volunteering Complete ✅ |
 | Senior Systems Engineer | Infosys | Full Time, Permanent | Jan 2022 — Jun 2022 | Hybrid, Bengaluru 🇮🇳 | Financial Services | Resigned to immigrate to Canada for higher studies ✅ |
 | Systems Engineer | Infosys | Full Time, Permanent | Apr 2020 — Dec 2021 | Remote, Bengaluru 🇮🇳 | Financial Services | Promoted to higher level - Senior Systems Engineer ✅ |
 | Systems Engineer Trainee | Infosys | Full Time, Permanent | Dec 2019 — Apr 2020 | Hybrid, Kerala 🇮🇳 | Financial Services | Graduated from Training as a High Performer ✅ and Completed Probation ✅ |
