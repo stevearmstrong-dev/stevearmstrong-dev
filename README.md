@@ -1,3 +1,4 @@
+![1](https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/2ecd9ac7-a64f-4b39-9166-fc5e4f6c2c71)
 Well hello there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Thankyou for visiting my profile!
 =======================================================================================================================================
 
@@ -60,3 +61,8 @@ I haven't dissappointed so far in my career :) and I learn like a sponge from ev
 
 * 🌍  I'm based in Toronto, Ontario, Canada and I'm open to Work and willing to relocate to anywhere in Canada as long as I get an opportunity to learn, grow and make a difference!
 * ✉️  Feel free to reach out to me at [steve@stevearmstrong.org](mailto:steve@stevearmstrong.org)
+
+
+![3](https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/e08a5692-e2b1-4fe7-9bb9-b8e4dc9e72a8)
+
+
