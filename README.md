@@ -53,7 +53,14 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/stevearmstrong-dev/emotion-recognition-from-audio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stevearmstrong-dev&repo=emotion-recognition-from-audio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p align="left">
+  <a href="https://github.com/stevearmstrong-dev/emotion-recognition-from-audio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stevearmstrong-dev&repo=emotion-recognition-from-audio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="45%" />
+  </a>
+  <a href="https://github.com/stevearmstrong-dev/cardiovascular-disease-risk-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stevearmstrong-dev&repo=cardiovascular-disease-risk-prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="45%" />
+  </a>
+</p>
 
 
 
