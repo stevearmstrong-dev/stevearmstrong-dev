@@ -32,9 +32,6 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 - [Graduate Certificate in Full Stack Application Development] @ NSCC, Halifax, Canada (2022 - 2023)
 - [Bachelor of Technology in Engineering] @ APJ Abdul Kalam Technological University (2015 - 2019)
 
-
-I have previously worked at Telus, Infosys and Postilize as a Software Developer, Senior Systems Engineer and Full Stack Developer respectively. In addition to my technical expertise, I also bring in domain expertise as a result of building software in the Financial Services and Telecommunications industries.
-
 ### Skills
 
 
@@ -62,7 +59,7 @@ I have previously worked at Telus, Infosys and Postilize as a Software Developer
 
 
 **If you like what you see, and have a job for me, I'd love to discuss further and see if we can work together!**
-* I haven't dissappointed so far in my career :) and I learn like a sponge from everyone with a lot of enthusiasm!
+I learn like a sponge from everyone with a lot of enthusiasm!
 
 * 🌍  I'm based in Toronto, Ontario, Canada and I'm open to Work and willing to relocate to anywhere in Canada as long as I get an opportunity to learn, grow and make a difference!
 * ✉️  Feel free to reach out to me at [steve@stevearmstrong.org](mailto:steve@stevearmstrong.org)
