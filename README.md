@@ -59,6 +59,7 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 
 **If you like what you see, and have a job for me, I'd love to discuss further and see if we can work together!**
+
 I learn like a sponge from everyone with a lot of enthusiasm!
 
 * 🌍  I'm based in Toronto, Ontario, Canada and I'm open to Work and willing to relocate to anywhere in Canada as long as I get an opportunity to learn, grow and make a difference!
