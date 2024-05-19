@@ -4,21 +4,6 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 [![Steve Armstrong's Last 31 days github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stevearmstrong-dev&custom_title=Steve's%20Last%2031%20days%20Contribution%20Graph&theme=github)](https://github.com/stevearmstrong-dev/github-readme-activity-graph)
 
-🚀 **I'm Steve Armstrong**, a dedicated and results-driven software developer specializing in **Java**, **Spring Boot**, and **Node.js**. With a proven track record in developing scalable applications and deploying them on **AWS** and **GCP**, I bring tangible outcomes to the table, enhancing business operations worldwide.
-
-🌍 Based in Toronto, Canada, my career has taken me around the world, collaborating with talented teams to deliver impactful software solutions.
-
-🔧 Check out my repositories to see my hands-on work, or drop a message if you’re looking to collaborate on groundbreaking projects!
-
-🧠 I’m fervently expanding my expertise in **Machine Learning** and **Predictive Analytics**, aiming to leverage big data to drive innovation and efficiency in software development.
-
-🌟 Feel free to star my repositories if they inspire or assist you!
-
-* **What you may not find here**: Tens of thousands of lines of code written for prior organizations which have resulted in significant business value.
-* **What you may find here**: Projects that reflect my continuous learning and adaptation in technology, beyond work and academia.
-
-
-
 ### Work experience 👔
 | Job Position           | Company         | Full Time / Contract                         | Work Period       | Location               | Domain             | Work Status       |
 | ---------------------- | --------------- | -------------------------------------------- | ----------------- | ---------------------- | ------------------ | ----------------- |
@@ -33,7 +18,6 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 ** *Scale: 50 million users*
 ** *Revenue created for firms: 2 Billion$*
 ** *Estimated Hours saved: 1500+ hours*
-
 
 
 ### Education 🎓
@@ -76,7 +60,20 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
   </a>
 </p>
 
+### Now that you've had a glimpse of my work, let me tell you more about myself.
 
+🚀 **I'm Steve Armstrong**, a dedicated and results-driven software developer specializing in **Java**, **Spring Boot**, and **Node.js**. With a proven track record in developing scalable applications and deploying them on **AWS** and **GCP**, I bring tangible outcomes to the table, enhancing business operations worldwide.
+
+🌍 Based in Toronto, Canada, my career has taken me around the world, collaborating with talented teams to deliver impactful software solutions.
+
+🔧 I invite you to check out my repositories for a hands-on look at my work. If you're intrigued by the potential for collaboration on groundbreaking projects, don't hesitate to drop me a message!
+
+🧠 I’m fervently expanding my expertise in **Machine Learning** and **Predictive Analytics**, aiming to leverage big data to drive innovation and efficiency in software development.
+
+🌟 Feel free to star my repositories if they inspire or assist you!
+
+* **What you may not find here**: Tens of thousands of lines of code written for prior organizations which have resulted in significant business value.
+* **What you may find here**: Projects that reflect my continuous learning and adaptation in technology, beyond work and academia.
 
 **🌟 If you're interested in my profile and think I'd be a good fit for your team, let's connect and discuss opportunities!**
 
