@@ -2,7 +2,18 @@
 Well hello there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Thankyou for visiting my profile!
 =======================================================================================================================================
 
-### I'm Steve Armstrong! a builder at heart with Software Developmental Work Experience and Education both in Canada and Internationally!
+I'm Steve Armstrong, a software developer with extensive experience in building scalable applications using **Java**, **Spring Boot**, and modern JavaScript frameworks like **Node.js**. I have developed projects in cloud environments including **AWS** and **GCP**, enhancing business capabilities across continents.
+
+🌍 Based in Toronto, Canada, my career has taken me around the world, collaborating with talented teams to deliver impactful software solutions.
+
+🔍 Check out my repositories below to see what I've been working on, or feel free to reach out if you’re interested in collaborating on innovative projects!
+
+👀 I’m currently learning more about **Machine Learning** and **Predictive Analytics** to expand my data-driven development skills.
+
+---
+
+Feel free to star my repositories if you find them useful!
+
 -------------------------------------------------------------------------------------
 ##### What you may not find here: Tens of thousands of lines of code written for prior organizations which have resulted in significant business value.
 ##### What you may find here: My upskilling efforts beyond work and academia.
@@ -45,7 +56,9 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stevearmstrong-dev&theme=github_dark&utcOffset=8)
 
 
-<h3> Connect with me! <img src='https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/f3ae4862-ea31-4529-b46a-c93724fcd0d2' width="50px"> </h3>
+<h3> 📫 How to reach me: <img src='https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/f3ae4862-ea31-4529-b46a-c93724fcd0d2' width="50px"></h3>
+
+✉️ My email: [steve@stevearmstrong.org](mailto:steve@stevearmstrong.org)
 
 <p align="left"> <a href="https://www.github.com/stevearmstrong-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/stevearmstrong-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/stevetechwizard" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
@@ -67,12 +80,6 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 
 **If you like what you see, and have a job for me, I'd love to discuss further and see if we can work together!**
-
-I learn like a sponge from everyone with a lot of enthusiasm!
-
-* 🌍  I'm based in Toronto, Ontario, Canada and I'm open to Work and willing to relocate to anywhere in Canada as long as I get an opportunity to learn, grow and make a difference!
-* ✉️  Feel free to reach out to me at [steve@stevearmstrong.org](mailto:steve@stevearmstrong.org)
-
 
 ![3](https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/e08a5692-e2b1-4fe7-9bb9-b8e4dc9e72a8)
 
