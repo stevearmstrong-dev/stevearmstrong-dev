@@ -4,22 +4,19 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 [![Steve Armstrong's Last 31 days github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stevearmstrong-dev&custom_title=Steve's%20Last%2031%20days%20Contribution%20Graph&theme=github)](https://github.com/stevearmstrong-dev/github-readme-activity-graph)
 
-I'm Steve Armstrong, a software developer with extensive experience in building scalable applications using **Java**, **Spring Boot**, and modern JavaScript frameworks like **Node.js**. I have developed projects in cloud environments including **AWS** and **GCP**, enhancing business capabilities across continents.
+🚀 **I'm Steve Armstrong**, a dedicated and results-driven software developer specializing in **Java**, **Spring Boot**, and **Node.js**. With a proven track record in developing scalable applications and deploying them on **AWS** and **GCP**, I bring tangible outcomes to the table, enhancing business operations worldwide.
 
 🌍 Based in Toronto, Canada, my career has taken me around the world, collaborating with talented teams to deliver impactful software solutions.
 
-🔍 Check out my repositories below to see what I've been working on, or feel free to reach out if you’re interested in collaborating on innovative projects!
+🔧 Check out my repositories to see my hands-on work, or drop a message if you’re looking to collaborate on groundbreaking projects!
 
-👀 I’m currently learning more about **Machine Learning** and **Predictive Analytics** to expand my data-driven development skills.
+🧠 I’m fervently expanding my expertise in **Machine Learning** and **Predictive Analytics**, aiming to leverage big data to drive innovation and efficiency in software development.
 
----
+🌟 Feel free to star my repositories if they inspire or assist you!
 
-Feel free to star my repositories if you find them useful!
+* **What you may not find here**: Tens of thousands of lines of code written for prior organizations which have resulted in significant business value.
+* **What you may find here**: Projects that reflect my continuous learning and adaptation in technology, beyond work and academia.
 
--------------------------------------------------------------------------------------
-##### What you may not find here: Tens of thousands of lines of code written for prior organizations which have resulted in significant business value.
-##### What you may find here: My upskilling efforts beyond work and academia.
--------------------------------------------------------------------------------------
 
 
 ### Work experience 👔
@@ -81,7 +78,7 @@ Feel free to star my repositories if you find them useful!
 
 
 
-**If you like what you see, and have a job for me, I'd love to discuss further and see if we can work together!**
+**🌟 If you're interested in my profile and think I'd be a good fit for your team, let's connect and discuss opportunities!**
 
 ![3](https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/e08a5692-e2b1-4fe7-9bb9-b8e4dc9e72a8)
 
