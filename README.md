@@ -2,6 +2,8 @@
 Well hello there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Thankyou for visiting my profile!
 =======================================================================================================================================
 
+[![Steve Armstrong's Last 31 days github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stevearmstrong-dev&custom_title=Steve's%20Last%2031%20days%20Contribution%20Graph&theme=github)](https://github.com/stevearmstrong-dev/github-readme-activity-graph)
+
 I'm Steve Armstrong, a software developer with extensive experience in building scalable applications using **Java**, **Spring Boot**, and modern JavaScript frameworks like **Node.js**. I have developed projects in cloud environments including **AWS** and **GCP**, enhancing business capabilities across continents.
 
 🌍 Based in Toronto, Canada, my career has taken me around the world, collaborating with talented teams to deliver impactful software solutions.
@@ -18,7 +20,7 @@ Feel free to star my repositories if you find them useful!
 ##### What you may not find here: Tens of thousands of lines of code written for prior organizations which have resulted in significant business value.
 ##### What you may find here: My upskilling efforts beyond work and academia.
 -------------------------------------------------------------------------------------
-[![Steve Armstrong's Last 31 days github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stevearmstrong-dev&custom_title=Steve's%20Last%2031%20days%20Contribution%20Graph&theme=github)](https://github.com/stevearmstrong-dev/github-readme-activity-graph)
+
 
 ### Work experience 👔
 | Job Position           | Company         | Full Time / Contract                         | Work Period       | Location               | Domain             | Work Status       |
