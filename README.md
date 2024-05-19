@@ -39,12 +39,6 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stevearmstrong-dev&theme=github_dark&utcOffset=8)
 
 
-<h3> 📫 How to reach me: <img src='https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/f3ae4862-ea31-4529-b46a-c93724fcd0d2' width="50px"></h3>
-
-✉️ My email: [steve@stevearmstrong.org](mailto:steve@stevearmstrong.org)
-
-<p align="left"> <a href="https://www.github.com/stevearmstrong-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/stevearmstrong-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/stevetechwizard" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
 ### Badges
 
 <a href="http://www.github.com/stevearmstrong-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stevearmstrong-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
@@ -76,6 +70,13 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 * **What you may find here**: Projects that reflect my continuous learning and adaptation in technology, beyond work and academia.
 
 **🌟 If you're interested in my profile and think I'd be a good fit for your team, let's connect and discuss opportunities!**
+
+
+<h3> 📫 How to reach me: <img src='https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/f3ae4862-ea31-4529-b46a-c93724fcd0d2' width="50px"></h3>
+
+✉️ My email: [steve@stevearmstrong.org](mailto:steve@stevearmstrong.org)
+
+<p align="left"> <a href="https://www.github.com/stevearmstrong-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/stevearmstrong-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/stevetechwizard" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 ![3](https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/e08a5692-e2b1-4fe7-9bb9-b8e4dc9e72a8)
 
