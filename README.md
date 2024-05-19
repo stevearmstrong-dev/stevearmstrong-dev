@@ -31,10 +31,8 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 - [Graduate Certificate in Full Stack Application Development] @ NSCC, Halifax, Canada (2022 - 2023)
 - [Bachelor of Technology in Engineering] @ APJ Abdul Kalam Technological University (2015 - 2019)
 
-<div style="display: flex; align-items: center;">
-  <span style="margin-top: -5px; font-size: 20px;">Skills</span>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" style="width: 32px; margin-top: 5px;">
-</div>
+<h3 style="display: flex; align-items: center;"> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18px"></h3>
+
 
 
 <p align="left">
