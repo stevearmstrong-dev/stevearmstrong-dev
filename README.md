@@ -43,7 +43,7 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 <a href="http://www.github.com/stevearmstrong-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stevearmstrong-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b>Top Repositories</b>
+### Top Repositories
 
 <p align="left">
   <a href="https://github.com/stevearmstrong-dev/emotion-recognition-from-audio">
