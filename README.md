@@ -8,7 +8,6 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 | Job Position           | Company         | Full Time / Contract                         | Work Period       | Location               | Domain             | Work Status       |
 | ---------------------- | --------------- | -------------------------------------------- | ----------------- | ---------------------- | ------------------ | ----------------- |
 | **Software Developer - API Marketplace** | **Telus** | 6 months T4 Contract via Solsys Corporation | June 2023 — Dec 2023 | Remote, Toronto 🇨🇦 | Telecommunications | Contract Complete ✅ |
-| Full Stack Developer | Postilize | 4 week Internship / work-term | May 2023 | Remote, Miami 🇺🇸 | Generative AI | Internship Complete ✅ |
 | Senior Systems Engineer | Infosys | Full Time, Permanent | Jan 2022 — Jun 2022 | Hybrid, Bengaluru 🇮🇳 | Financial Services | Resigned to immigrate to Canada for higher studies ✅ |
 | Systems Engineer | Infosys | Full Time, Permanent | Apr 2020 — Dec 2021 | Remote, Bengaluru 🇮🇳 | Financial Services | Promoted to higher level - Senior Systems Engineer ✅ |
 | Systems Engineer Trainee | Infosys | Full Time, Permanent | Dec 2019 — Apr 2020 | Hybrid, Kerala 🇮🇳 | Financial Services | Graduated from Training as a High Performer ✅ and Completed Probation ✅ |
@@ -21,9 +20,9 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 
 ### Education 🎓
-- [Graduate Certificate in Business Intelligence Analytics] @ NSCC, Halifax, Canada (2023 - 2024)
-- [Graduate Certificate in Full Stack Application Development] @ NSCC, Halifax, Canada (2022 - 2023)
-- [Bachelor of Technology in Engineering] @ APJ Abdul Kalam Technological University (2015 - 2019)
+- [Graduate Certificate in Business Intelligence Analytics] @ NSCC, Halifax, Canada (Sep 2023 - Jun 2024)
+- [Graduate Certificate in Full Stack Application Development] @ NSCC, Halifax, Canada (Sep 2022 - Jun 2023)
+- [Bachelor of Technology in Engineering] @ APJ Abdul Kalam Technological University (Aug 2015 - Jul 2019)
 
 <h3 style="display: flex; align-items: center;"> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18px"></h3>
 
@@ -58,7 +57,7 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 🚀 **I'm Steve Armstrong**, a dedicated and results-driven software developer specializing in **Java**, **Spring Boot**, and **Node.js**. With a proven track record in developing scalable applications and deploying them on **AWS** and **GCP**, I bring tangible outcomes to the table, enhancing business operations worldwide.
 
-🌍 Based in Toronto, Canada, my career has taken me around the world, collaborating with talented teams to deliver impactful software solutions.
+🌍 Based in Halifax, Canada, my career has taken me around the world, collaborating with talented teams to deliver impactful software solutions.
 
 🔧 I invite you to check out my repositories for a hands-on look at my work. If you're intrigued by the potential for collaboration on groundbreaking projects, don't hesitate to drop me a message!
 
