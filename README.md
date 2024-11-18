@@ -7,7 +7,8 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 ### Work experience 👔
 | Job Position           | Company         | Full Time / Contract                         | Work Period       | Location               | Domain             | Work Status       |
 | ---------------------- | --------------- | -------------------------------------------- | ----------------- | ---------------------- | ------------------ | ----------------- |
-| **Software Developer - API Marketplace** | **Telus** | 6 months T4 Contract via Solsys Corporation | June 2023 — Dec 2023 | Remote, Toronto 🇨🇦 | Telecommunications | Contract Complete ✅ |
+| **Software Development Senior Analyst** | **A multi billion dollar Tech company** | Full Time Permanent | August 2024 — Present | Halifax 🇨🇦 | Financial Services | Ongoing |
+| Software Developer - API Marketplace | Telus | 6 months T4 Contract via Solsys Corporation | June 2023 — Dec 2023 | Remote, Toronto 🇨🇦 | Telecommunications | Contract Complete ✅ |
 | Senior Systems Engineer | Infosys | Full Time, Permanent | Jan 2022 — Jun 2022 | Hybrid, Bengaluru 🇮🇳 | Financial Services | Resigned to immigrate to Canada for higher studies ✅ |
 | Systems Engineer | Infosys | Full Time, Permanent | Apr 2020 — Dec 2021 | Remote, Bengaluru 🇮🇳 | Financial Services | Promoted to higher level - Senior Systems Engineer ✅ |
 | Systems Engineer Trainee | Infosys | Full Time, Permanent | Dec 2019 — Apr 2020 | Hybrid, Kerala 🇮🇳 | Financial Services | Graduated from Training as a High Performer ✅ and Completed Probation ✅ |
