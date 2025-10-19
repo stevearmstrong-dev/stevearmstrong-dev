@@ -56,8 +56,7 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 ### Now that you've had a glimpse of my work, let me tell you more about myself.
 
-🚀 **I'm Steve Armstrong**, a dedicated and results-driven software developer specializing in **Java**, **Spring Boot**, and **Node.js**. With a proven track record in developing scalable applications and deploying them on **AWS** and **GCP**, I bring tangible outcomes to the table, enhancing business operations worldwide.
-
+🚀 **I'm Steve Armstrong**, a dedicated and results-driven software developer specializing in **Java**, **Spring Boot**, and **Kafka**. With a proven track record in developing scalable applications and deploying them on **AWS** and **GCP**, I bring tangible outcomes to the table, enhancing business operations worldwide.
 🌍 Based in Halifax, Canada, my career has taken me around the world, collaborating with talented teams to deliver impactful software solutions.
 
 🔧 I invite you to check out my repositories for a hands-on look at my work. If you're intrigued by the potential for collaboration on groundbreaking projects, don't hesitate to drop me a message!
