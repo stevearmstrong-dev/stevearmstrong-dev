@@ -14,7 +14,7 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 | Systems Engineer Trainee | Infosys | Full Time, Permanent | Dec 2019 — Apr 2020 | Hybrid, Kerala 🇮🇳 | Financial Services | Graduated from Training as a High Performer ✅ and Completed Probation ✅ |
 
 
-** *Overall Work Experience: 3 years*
+** *Overall Work Experience: 4 years*
 ** *Scale: 50 million users*
 ** *Revenue created for firms: 2 Billion$*
 ** *Estimated Hours saved: 1500+ hours*
