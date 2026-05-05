@@ -25,13 +25,19 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 - [Graduate Certificate in Full Stack Application Development] @ NSCC, Halifax, Canada (Sep 2022 - Jun 2023)
 - [Bachelor of Technology in Engineering] @ APJ Abdul Kalam Technological University (Aug 2015 - Jul 2019)
 
-<h3 style="display: flex; align-items: center;"> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18px"></h3>
+### Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18px">
 
-
+#### Technologies I Work With
 
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+  <img src="https://skillicons.dev/icons?i=java,js,python,git,html,react,css,sass,nodejs,express,mongodb,mysql,postgres,aws,gcp,docker,linux,apple,figma&perline=10" alt="Java, JavaScript, Python, Git, HTML, React, CSS, Sass, Node.js, Express, MongoDB, MySQL, PostgreSQL, AWS, Google Cloud, Docker, Linux, macOS, and Figma" />
 </p>
+
+**Backend:** Java, Spring Boot, Node.js, Express, REST APIs, Kafka  
+**Frontend:** JavaScript, React, HTML5, CSS3, Sass  
+**Data:** PostgreSQL, MySQL, MongoDB, Python, Business Intelligence Analytics  
+**Cloud & DevOps:** AWS, Google Cloud, DigitalOcean, Docker, Linux, Git  
+**Tools:** macOS, Figma, GitHub
 <!-- <img width="338" alt="Screenshot 2024-05-06 at 2 02 39 AM" src="https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/889c8da7-dc39-4cd8-9f58-3810c4e93c52"> -->
 <!-- <img width="332" alt="Screenshot 2024-05-06 at 2 06 08 AM" src="https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/f168b6a3-d31f-47b0-88ef-afa1b4815057"> -->
 
@@ -43,16 +49,12 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 <a href="http://www.github.com/stevearmstrong-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stevearmstrong-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Top Repositories
+### Featured Repositories
 
-<p align="left">
-  <a href="https://github.com/stevearmstrong-dev/emotion-recognition-from-audio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stevearmstrong-dev&repo=emotion-recognition-from-audio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="45%" />
-  </a>
-  <a href="https://github.com/stevearmstrong-dev/cardiovascular-disease-risk-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stevearmstrong-dev&repo=cardiovascular-disease-risk-prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="45%" />
-  </a>
-</p>
+| Project | Focus Area | Description |
+| --- | --- | --- |
+| [emotion-recognition-from-audio](https://github.com/stevearmstrong-dev/emotion-recognition-from-audio) | Machine Learning | Audio emotion recognition project exploring signal processing and predictive modeling. |
+| [cardiovascular-disease-risk-prediction](https://github.com/stevearmstrong-dev/cardiovascular-disease-risk-prediction) | Predictive Analytics | Cardiovascular disease risk prediction using data analysis and machine learning techniques. |
 
 ### Now that you've had a glimpse of my work, let me tell you more about myself.
 
@@ -78,5 +80,4 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 <p align="left"> <a href="https://www.github.com/stevearmstrong-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/stevearmstrong-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/stevetechwizard" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 ![3](https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/e08a5692-e2b1-4fe7-9bb9-b8e4dc9e72a8)
-
 
