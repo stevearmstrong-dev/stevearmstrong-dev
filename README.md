@@ -59,6 +59,10 @@ I have contributed to established open-source ecosystems that are directly relev
 | [Jenkins](https://github.com/jenkinsci/jenkins) | CI/CD | Merged PR: [[JENKINS-45927] Truncate verbose CauseOfBlockage messages in queue](https://github.com/jenkinsci/jenkins/pull/11298) |
 | [Apache Maven](https://github.com/apache/maven) | Java Build Tooling | Merged PR: [Fix multiple SLF4J providers warning in tests](https://github.com/apache/maven/pull/11480) |
 
+<a href="https://github.com/spring-projects/spring-boot/releases/tag/v4.0.0#heart-contributors">
+  <img src="./assets/spring-boot-4-contributors.png" alt="Spring Boot 4.0.0 release contributors section highlighting @stevearmstrong-dev" />
+</a>
+
 ### Featured Repositories
 
 | Project | Focus Area | Description |
