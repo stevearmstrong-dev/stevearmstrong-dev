@@ -56,8 +56,8 @@ I have contributed to established open-source ecosystems that are directly relev
 | Project | Ecosystem | Focus |
 | --- | --- | --- |
 | [Spring Boot](https://github.com/spring-projects/spring-boot) | Java / Spring | Mentioned as a contributor in the [Spring Boot 4.0.0 release](https://github.com/spring-projects/spring-boot/releases/tag/v4.0.0#heart-contributors) |
-| [Jenkins](https://github.com/jenkinsci/jenkins) | CI/CD | Build automation and delivery tooling |
-| [Apache Maven](https://github.com/apache/maven) | Java Build Tooling | Dependency management and build lifecycle tooling |
+| [Jenkins](https://github.com/jenkinsci/jenkins) | CI/CD | Merged PR: [[JENKINS-45927] Truncate verbose CauseOfBlockage messages in queue](https://github.com/jenkinsci/jenkins/pull/11298) |
+| [Apache Maven](https://github.com/apache/maven) | Java Build Tooling | Merged PR: [Fix multiple SLF4J providers warning in tests](https://github.com/apache/maven/pull/11480) |
 
 ### Featured Repositories
 
