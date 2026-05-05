@@ -27,17 +27,17 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 ### Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18px">
 
-#### Technologies I Work With
+#### Java Backend Technologies I Work With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,python,git,html,react,css,sass,nodejs,express,mongodb,mysql,postgres,aws,gcp,docker,linux,apple,figma&perline=10" alt="Java, JavaScript, Python, Git, HTML, React, CSS, Sass, Node.js, Express, MongoDB, MySQL, PostgreSQL, AWS, Google Cloud, Docker, Linux, macOS, and Figma" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,jenkins,kafka,git,github,docker,aws,gcp,linux,postgres,mysql,mongodb,postman,idea&perline=8" alt="Java, Spring Boot, Maven, Jenkins, Kafka, Git, GitHub, Docker, AWS, Google Cloud, Linux, PostgreSQL, MySQL, MongoDB, Postman, and IntelliJ IDEA" />
 </p>
 
-**Backend:** Java, Spring Boot, Node.js, Express, REST APIs, Kafka  
-**Frontend:** JavaScript, React, HTML5, CSS3, Sass  
-**Data:** PostgreSQL, MySQL, MongoDB, Python, Business Intelligence Analytics  
-**Cloud & DevOps:** AWS, Google Cloud, DigitalOcean, Docker, Linux, Git  
-**Tools:** macOS, Figma, GitHub
+**Primary:** Java, Spring Boot, REST APIs, Kafka, Maven  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Cloud & DevOps:** AWS, Google Cloud, Docker, Linux, Jenkins, GitHub Actions  
+**Developer Tools:** Git, GitHub, IntelliJ IDEA, Postman, macOS  
+**Additional Exposure:** JavaScript, React, Python, Business Intelligence Analytics
 <!-- <img width="338" alt="Screenshot 2024-05-06 at 2 02 39 AM" src="https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/889c8da7-dc39-4cd8-9f58-3810c4e93c52"> -->
 <!-- <img width="332" alt="Screenshot 2024-05-06 at 2 06 08 AM" src="https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/f168b6a3-d31f-47b0-88ef-afa1b4815057"> -->
 
@@ -48,6 +48,16 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 ### Badges
 
 <a href="http://www.github.com/stevearmstrong-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stevearmstrong-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### Open Source Contributions
+
+I have contributed to established open-source ecosystems that are directly relevant to Java backend engineering:
+
+| Project | Ecosystem | Focus |
+| --- | --- | --- |
+| [Spring Boot](https://github.com/spring-projects/spring-boot) | Java / Spring | Backend framework and application development ecosystem |
+| [Jenkins](https://github.com/jenkinsci/jenkins) | CI/CD | Build automation and delivery tooling |
+| [Apache Maven](https://github.com/apache/maven) | Java Build Tooling | Dependency management and build lifecycle tooling |
 
 ### Featured Repositories
 
@@ -80,4 +90,3 @@ Well hello there! ![](https://user-images.githubusercontent.com/18350557/1763097
 <p align="left"> <a href="https://www.github.com/stevearmstrong-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/stevearmstrong-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/stevetechwizard" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 ![3](https://github.com/stevearmstrong-dev/stevearmstrong-dev/assets/113034949/e08a5692-e2b1-4fe7-9bb9-b8e4dc9e72a8)
-
