@@ -55,7 +55,7 @@ I have contributed to established open-source ecosystems that are directly relev
 
 | Project | Ecosystem | Focus |
 | --- | --- | --- |
-| [Spring Boot](https://github.com/spring-projects/spring-boot) | Java / Spring | Backend framework and application development ecosystem |
+| [Spring Boot](https://github.com/spring-projects/spring-boot) | Java / Spring | Mentioned as a contributor in the [Spring Boot 4.0.0 release](https://github.com/spring-projects/spring-boot/releases/tag/v4.0.0#heart-contributors) |
 | [Jenkins](https://github.com/jenkinsci/jenkins) | CI/CD | Build automation and delivery tooling |
 | [Apache Maven](https://github.com/apache/maven) | Java Build Tooling | Dependency management and build lifecycle tooling |
 
